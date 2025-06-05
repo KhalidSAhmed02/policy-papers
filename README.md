@@ -10,8 +10,16 @@ This repository includes writing samples on topics such as tax policy, wealth in
 ---
 
 ## Papers
-Three papers are added. check [Papers.pdf](https://github.com/KhalidSAhmed02/policy-papers/tree/KhalidSAhmed02-papers-pdf)
+Three papers are added. Check [Papers Folder](https://github.com/KhalidSAhmed02/policy-papers/edit/main/papers)
 
+##### Foreign Investments and Aid in Africa Examined:
+- An examination of the role that Aid and FDI have on African nations. The short and long-term ramifications. (Potential Addition of personally hand-picked countries examined for further analysis)
+
+##### K_Ahmed.pdf:
+- An executive summary that highlights the Carrabo community and the changes to help local businesses grow. Solutions ranged from community seasonal night markets, added education of bursaries and grants, applications that can help guide and recommend local stores, etc.
+
+##### Tax_Policy_Sample.pdf: 
+- A research paper that explores tax policy in the United States and its influence on the wealth distribution in the US. It highlights drivers of such a divide, such as investment returns, labour income disparities, etc. Backed by models and data, I aim to explain the rise in wealth concentration. Concluded with suggestions and recommendations using international models
 
 ---
 
